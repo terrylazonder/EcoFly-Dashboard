@@ -536,7 +536,7 @@ One of the innovations explored by EcoFly is the use of **fully electric aircraf
 - *In 2030*, electric flight is not feasible — no viable electric aircraft exist for commercial passenger use.  
 - *In 2040*, EcoFly introduces **20 electric aircraft** carrying 90 passengers, with a maximum range of *800 km*.  
 - *In 2050*, **10 larger electric aircraft** are added, each with *150 seats* and a range of *1,500 km*.  
-- A total investment of **€1.2 billion** is required in *2040* and *2050* to support development, acquisition, and charging infrastructure.
+- An investment of **€1.2 billion** is required in *2040* and *2050* to support development, acquisition, and charging infrastructure.
 
 **Financial Impacts:**
 - These investments lead to **negative cashflows** due to high capital costs and limited passenger capacity.  
